@@ -1,0 +1,14 @@
+/* Theme */
+
+main {
+	background: rgb(131,58,180);
+	background: radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(139,29,253,0.9238138492701768) 16%, rgba(245,31,101,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+.icons-social a {
+	color: #FAFAFA;
+}
+
+.icons-social a svg path{
+	fill: #FAFAFA;
+}
